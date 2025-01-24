@@ -1,0 +1,5 @@
+/home/cyprian/repos/c-prog/STM32-bluepill/Test/CMakeFiles/Test.dir
+/home/cyprian/repos/c-prog/STM32-bluepill/Test/CMakeFiles/edit_cache.dir
+/home/cyprian/repos/c-prog/STM32-bluepill/Test/CMakeFiles/rebuild_cache.dir
+/home/cyprian/repos/c-prog/STM32-bluepill/Test/cmake/stm32cubemx/CMakeFiles/edit_cache.dir
+/home/cyprian/repos/c-prog/STM32-bluepill/Test/cmake/stm32cubemx/CMakeFiles/rebuild_cache.dir
